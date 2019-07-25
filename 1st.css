@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+select{
+	text-align: justify;
+}
+body
+{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB3b44onD-HKY9OBQx1fgmH_82DUuY7MpMaHGWL7Tx7N5Q3-Bi);
+  	height:100%;
+  	background-repeat: no-repeat;
+    background-size: cover;
+}
+button{
+	text-align: center;
+}
